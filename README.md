@@ -7,7 +7,9 @@ Weakly Supervised Group Mask Network (WSGMN) is a framework for Weakly Supervise
 1. WSGMN achieves state-of-the-art performance on weakly supervised object detection (Pascal VOC 2007 and 2012, ImageNet Detection).
 2. The code is mainly written by Python.
 
+
 #Experiments
+
 (1) Conventional MIL based WSOD methods; (b) WSOD methods incorporating FRCNN; (c) Ablation study of our WSGMN.
 
 #Results
